@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rails Project // How to prepare"
-date:       2020-07-24 12:02:44 +0000
+date:       2020-07-24 08:02:45 -0400
 permalink:  rails_project_how_to_prepare
 ---
 
@@ -11,7 +11,8 @@ permalink:  rails_project_how_to_prepare
 Let me set the stage for you guys if yall are anything like me: get ready for tons of errors, so much confusion, so much reference to the Nil Class, banging head against wall, repeat...
 With that said, figuring this stuff out is like quenching a brain freeze. I always learn most from the projects, but this one here is something else.
 So here are the biggest tips I can offer as someone about midway through my project that I wish I'd have known going in:
-DRAW OUT YOUR USER STORY
+
+1. DRAW OUT YOUR USER STORY
 
 -- figuring out early on exactly what you want to happen from login to logout and everywhere in between is CRUCIAL. i should have done this before, but i just started and got going and got lost quickly. if you know each step you want the user to take, it makes it so much easier to plan out.
 
