@@ -1,13 +1,13 @@
 # Site settings
 author: JJ Marshall
-title: JJ Baby's Blog Days
+title: JJ's Blahg
 header-img: img/home-bg.png
 email: johnjamesmarshalljr@gmail.com
 copyright_name: JJ Marshall
 description: > # this means to ignore newlines until "baseurl:"
   Programming Your Mind
 baseurl: "" # the subpath of your site, e.g. /blog
-twitter_username: 
+twitter_username: fullstackjj
 github_username:  jerkzilla
 
 # Build settings
